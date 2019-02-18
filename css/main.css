@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ebbac1;
+  background: #94ff1a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2990,17 +2990,4 @@ pre .javascript .function {
   .post-body {
     text-align: justify;
   }
-}
-body {
-  background: url("https://acg.toubiec.cn/random");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-}
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  background: rgba(0,0,0,0);
-  opacity: 0.8;
-  min-height: 500px;
 }
